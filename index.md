@@ -13,11 +13,7 @@ You can use the [editor on GitHub](https://github.com/CompImg/CompImg.github.io/
 
 ### h3
 
-<img src="testbild-100.jpg" alt="hi" align="right"/>
-
-## Test
-
-<img src="testbild-100.jpg" alt="hi" align="middle"/>
+<p><img src="testbild-100.jpg" alt="Smiley face" style="vertical-align:middle"></p>
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
