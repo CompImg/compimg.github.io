@@ -1,8 +1,8 @@
 ## Welcome
 
-**Computational Imaging** is an interdisciplinary working group between TUM Neuroradiology (http://www.neurokopfzentrum.med.tum.de/neuroradiologie/) and Image-Based Biomedical Imaging (http://ibbm.in.tum.de/WebHome), headed by PD Benedikt Wiestler and Prof. Bjoern Menze.
+**Computational Imaging** is an interdisciplinary working group between TUM Neuroradiology ([http://www.neurokopfzentrum.med.tum.de/neuroradiologie/]) and Image-Based Biomedical Imaging ([http://ibbm.in.tum.de/WebHome]), jointly headed by Dr. Benedikt Wiestler and Prof. Bjoern Menze.
 
-Medical Imaging generates a plethora of data, of which today only a fraction is used for clinical decision making. Within our Working Group, we aim to develop algorithms and strategies to make the wealth of information accessible to clinicials. We are also actively contributing to important challenges (https://www.med.upenn.edu/sbia/brats2018.html) and workshops (http://www.brainlesion-workshop.org/) in the field of medical image computing.
+Medical Imaging generates a plethora of data, of which today only a fraction is used for clinical decision making. Within our Working Group, we aim to develop algorithms and strategies to make the wealth of information accessible to clinicials. We are also actively contributing to important challenges ([https://www.med.upenn.edu/sbia/brats2018.html]) and workshops ([http://www.brainlesion-workshop.org/]) in the field of medical image computing.
 
 *italic*
 
