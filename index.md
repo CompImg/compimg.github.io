@@ -1,12 +1,6 @@
-layout: page
-category : 
-pygments: true
-markdown: kramdown
-title:  stnava
-tagline: theory-driven, practical open-source science
+## Welcome
 
-## Welcome to GitHub Pages
-
+"Computational Imaging" is an interdisciplinary working group between TUM Neuroradiology (http://www.neurokopfzentrum.med.tum.de/neuroradiologie/) and Image-Based Biomedical Imaging (http://ibbm.in.tum.de/WebHome).
 You can use the [editor on GitHub](https://github.com/CompImg/CompImg.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
