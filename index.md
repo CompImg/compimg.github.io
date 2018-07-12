@@ -3,6 +3,8 @@
 "Computational Imaging" is an interdisciplinary working group between TUM Neuroradiology (http://www.neurokopfzentrum.med.tum.de/neuroradiologie/) and Image-Based Biomedical Imaging (http://ibbm.in.tum.de/WebHome).
 You can use the [editor on GitHub](https://github.com/CompImg/CompImg.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
+<img src="testbild-100.jpg" alt="hi" class="inline"/>
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
