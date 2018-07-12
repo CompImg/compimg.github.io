@@ -4,6 +4,9 @@
 
 Medical Imaging generates a plethora of data, of which today only a fraction is used for clinical decision making. Within our Working Group, we aim to develop algorithms and strategies to make the wealth of information accessible to clinicials. We are also actively contributing to important challenges ([https://www.med.upenn.edu/sbia/brats2018.html]) and workshops ([http://www.brainlesion-workshop.org/]) in the field of medical image computing.
 
+
+![Image](testbild-100.jpg)
+
 *italic*
 
 **bold**
