@@ -7,7 +7,7 @@ Medical Imaging generates a plethora of data, of which today only a fraction is 
 ## People
 ### Group Leaders
 - Dr. Benedikt Wiestler (TUM Neuroradiology)
-- Prof. Dr. Bjoern Menze (TUM IBBM)
+- Prof. Bjoern Menze (TUM IBBM)
 
 ### Scientists
 - PD Jan Kirschke (TUM Neuroradiology)
