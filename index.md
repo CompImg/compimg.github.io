@@ -5,11 +5,11 @@
 Medical Imaging generates a plethora of data, of which today only a fraction is used for clinical decision making. Within our Working Group, we aim to develop algorithms and strategies to make the wealth of information accessible to clinicials. To this end, we are developing tools for (un)supervised lesion detection / segmentation, classification and data integration. Together with our clinical partners @ TUM, our current focus is on two neurological model diseases: Multiple Sclerosis and Gliomas. To support dissemination and use of our results, we aim to make all tools developed by us available here. We are also actively contributing to important challenges ([BRATS](https://www.med.upenn.edu/sbia/brats2018.html)) and workshops ([BrainLes](http://www.brainlesion-workshop.org/)) in the field of medical image computing.
 
 ## People
-# Group Leaders
+### Group Leaders
 - Dr. Benedikt Wiestler (TUM Neuroradiology)
 - Prof. Dr. Bjoern Menze (TUM IBBM)
 
-# Scientists
+### Scientists
 - PD Jan Kirschke (TUM Neuroradiology)
 - Dr. Paul Eichinger (TUM Neuroradiology)
 - Esther Alberts (PhD Student)
@@ -20,7 +20,7 @@ Medical Imaging generates a plethora of data, of which today only a fraction is 
 - Miguel Molina (PhD Student)
 - Haike Zhang (MD Student)
 
-# Collaboration Partners
+### Collaboration Partners
 - Dr. Shadi Albarqouni (TUM IBBM)
 - PD Jens Gempt (TUM Neurosurgery)
 - Prof. Mark Mühlau (TUM Neurology)
