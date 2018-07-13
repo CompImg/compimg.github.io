@@ -4,9 +4,30 @@
 
 Medical Imaging generates a plethora of data, of which today only a fraction is used for clinical decision making. Within our Working Group, we aim to develop algorithms and strategies to make the wealth of information accessible to clinicials. To this end, we are developing tools for (un)supervised lesion detection / segmentation, classification and data integration. Together with our clinical partners @ TUM, our current focus is on two neurological model diseases: Multiple Sclerosis and Gliomas. To support dissemination and use of our results, we aim to make all tools developed by us available here. We are also actively contributing to important challenges ([BRATS](https://www.med.upenn.edu/sbia/brats2018.html)) and workshops ([BrainLes](http://www.brainlesion-workshop.org/)) in the field of medical image computing.
 
+## People
+Leitung
+	Dr. Benedikt Wiestler (TUM Neuroradiologie)
+	Prof. Dr. Bjoern Menze (TUM Informatik)
+Mitarbeiter
+PD Jan Kirschke (TUM Neuroradiologie);
+Dr. Paul Eichinger (TUM Neuroradiologie);
+Dr. Shadi Albarqouni (TUM Informatik);
+Esther Alberts (PhD Student);
+Christoph Baur (PhD Student);
+Florian Kofler (PhD Student);
+Haike Zhang (MD Student)
+Kooperation
+PD Jens Gempt (TUM Neurochirurgie);
+Prof. Mark Mühlau (TUM Neurologie);
+Dr. Viola Pongratz (TUM Neurologie);
+PD Alexander Radbruch (Heidelberg / Essen Neuroradiologie);
+- Prof. Jürgen Schlegel (TUM Neuropathologie);
+- Prof. R. Wiest (Bern Neuroradiologie)
+
 ## Projects
 
 ![Image](DIRsub.jpg)
+Example of a longitudinal registration and subtraction (c) of DIR images (a, b) over time. Code found at [DIRsub](https://github.com/CompImg/DIRsub).
 
 ## Selected Publications
 
