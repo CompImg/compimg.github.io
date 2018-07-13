@@ -5,29 +5,35 @@
 Medical Imaging generates a plethora of data, of which today only a fraction is used for clinical decision making. Within our Working Group, we aim to develop algorithms and strategies to make the wealth of information accessible to clinicials. To this end, we are developing tools for (un)supervised lesion detection / segmentation, classification and data integration. Together with our clinical partners @ TUM, our current focus is on two neurological model diseases: Multiple Sclerosis and Gliomas. To support dissemination and use of our results, we aim to make all tools developed by us available here. We are also actively contributing to important challenges ([BRATS](https://www.med.upenn.edu/sbia/brats2018.html)) and workshops ([BrainLes](http://www.brainlesion-workshop.org/)) in the field of medical image computing.
 
 ## People
-Leitung
-	Dr. Benedikt Wiestler (TUM Neuroradiologie)
-	Prof. Dr. Bjoern Menze (TUM Informatik)
-Mitarbeiter
-PD Jan Kirschke (TUM Neuroradiologie);
-Dr. Paul Eichinger (TUM Neuroradiologie);
-Dr. Shadi Albarqouni (TUM Informatik);
-Esther Alberts (PhD Student);
-Christoph Baur (PhD Student);
-Florian Kofler (PhD Student);
-Haike Zhang (MD Student)
-Kooperation
-PD Jens Gempt (TUM Neurochirurgie);
-Prof. Mark Mühlau (TUM Neurologie);
-Dr. Viola Pongratz (TUM Neurologie);
-PD Alexander Radbruch (Heidelberg / Essen Neuroradiologie);
-- Prof. Jürgen Schlegel (TUM Neuropathologie);
-- Prof. R. Wiest (Bern Neuroradiologie)
+# Group Leaders
+- Dr. Benedikt Wiestler (TUM Neuroradiology)
+- Prof. Dr. Bjoern Menze (TUM IBBM)
+
+# Scientists
+- PD Jan Kirschke (TUM Neuroradiology)
+- Dr. Paul Eichinger (TUM Neuroradiology)
+- Esther Alberts (PhD Student)
+- Christoph Baur (PhD Student)
+- Florian Kofler (PhD Student)
+- Jana Lipkova (PhD Student)
+- Marie Metz (MD Student)
+- Miguel Molina (PhD Student)
+- Haike Zhang (MD Student)
+
+# Collaboration Partners
+- Dr. Shadi Albarqouni (TUM IBBM)
+- PD Jens Gempt (TUM Neurosurgery)
+- Prof. Mark Mühlau (TUM Neurology)
+- Dr. Viola Pongratz (TUM Neurology)
+- PD Alexander Radbruch (Heidelberg / Essen Neuroradiology)
+- Prof. Jürgen Schlegel (TUM Neuropathology)
+- Dr. Christian Wachinger (LMU Artificial Intelligence in Medical Imaging)
+- Prof. R. Wiest (Bern Neuroradiology)
 
 ## Projects
 
 ![Image](DIRsub.jpg)
-Example of a longitudinal registration and subtraction (c) of DIR images (a, b) over time. Code found at [DIRsub](https://github.com/CompImg/DIRsub).
+Example of a longitudinal registration and subtraction (C) of DIR images (A, B) over time. Code found at [DIRsub](https://github.com/CompImg/DIRsub).
 
 ## Selected Publications
 
