@@ -36,11 +36,6 @@ Tumor Growth Models | DIRsub  | AnoVAEGAN | SegGUI
 --- | --- | --- | ---
 ![alt text](TGM.jpg "Tumor Growth Modeling")(https://arxiv.org/abs/1807.00499) | ![alt text](DIRsub.jpg "Longitudinal DIR Subtraction")(https://github.com/CompImg/DIRsub) | [![alt text](AnoVAEGAN.jpg "Unsupervised Anomaly Detection")](https://arxiv.org/abs/1804.04488) | [![alt text](GUI_screenshot.jpg "Interactive Tumor Segmentation GUI")](https://github.com/CompImg/gui_supervoxel_tumor_segmentation)
 
-
-
-![Image](TGM.jpg)  |  ![Image](DIRsub.jpg) | ![Image](AnoVAEGAN.jpg)
-Patient-specific tumor growth modeling based on multi-modal imaging. [Link to Paper](https://arxiv.org/abs/1807.00499). | Example of a longitudinal registration and subtraction (C) of DIR images (A, B) over time. Code found at [DIRsub](https://github.com/CompImg/DIRsub). | Unsupervised anomaly detection based on a coupled Auto-Encoder / Generative Adversarial Network, trained on MR scans from healthy probands. [Link to Paper](https://arxiv.org/abs/1804.04488).
-
 ## Selected Publications
 
 **Lipkova J**, Angelikopoulos P, Wu S, **Alberts E**, **Wiestler B**, Diehl C, Preibisch C, Pyka T, Combs S, Hadjidoukas P, Van Leemput K, Koumoutsakos P, Lowengrub JS, **Menze BH**. [Personalized Radiotherapy Planning for Glioma Using Multimodal Bayesian Model Calibration](https://arxiv.org/abs/1807.00499). arXiv:1807.00499, 2018
