@@ -32,13 +32,8 @@ Medical Imaging generates a plethora of data, of which today only a fraction is 
 - Prof. R. Wiest (Bern Neuroradiology)
 
 ## Selected Projects
-| Tumor Growth Models | DIRsub | AnoVAEGAN | SegGUI |
-| ---- | ---- | ---- | ---- |
-| [![alt text](TGM.jpg "Tumor Growth Modeling")](https://arxiv.org/abs/1807.00499) | [![alt text](DIRsub.jpg "Longitudinal DIR Subtraction")](https://github.com/CompImg/DIRsub) | [![alt text](AnoVAEGAN.jpg "Unsupervised Anomaly Detection")](https://arxiv.org/abs/1804.04488) | [![alt text](GUI_screenshot.jpg "Interactive Tumor Segmentation GUI")](https://github.com/CompImg/gui_supervoxel_tumor_segmentation) |
-
-| DIRsub | AnoVAEGAN | SegGUI |
-| ---- | ---- | ---- |
-| [![alt text](DIRsub.jpg "Longitudinal DIR Subtraction")](https://github.com/CompImg/DIRsub) | [![alt text](AnoVAEGAN.jpg "Unsupervised Anomaly Detection")](https://arxiv.org/abs/1804.04488) | [![alt text](GUI_screenshot.jpg "Interactive Tumor Segmentation GUI")](https://github.com/CompImg/gui_supervoxel_tumor_segmentation) |
+[![alt text](TGM.jpg "Tumor Growth Modeling")](https://arxiv.org/abs/1807.00499) | [![alt text](DIRsub.jpg "Longitudinal DIR Subtraction")](https://github.com/CompImg/DIRsub)
+[![alt text](AnoVAEGAN.jpg "Unsupervised Anomaly Detection")](https://arxiv.org/abs/1804.04488) | [![alt text](GUI_screenshot.jpg "Interactive Tumor Segmentation GUI")](https://github.com/CompImg/gui_supervoxel_tumor_segmentation)
 
 ## Selected Publications
 
