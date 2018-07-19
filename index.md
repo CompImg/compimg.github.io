@@ -33,20 +33,8 @@ Medical Imaging generates a plethora of data, of which today only a fraction is 
 
 ## Projects
 
-TGM             |  DIRSub
-:-------------------------:|:-------------------------:
-![Image](TGM.jpg)  |  ![Image](DIRsub.jpg)
-Patient-specific tumor growth modeling based on multi-modal imaging. [Link to Paper](https://arxiv.org/abs/1807.00499).  | Example of a longitudinal registration and subtraction (C) of DIR images (A, B) over time. Code found at [DIRsub](https://github.com/CompImg/DIRsub).
-
-![Image](TGM.jpg)
-Patient-specific tumor growth modeling based on multi-modal imaging. [Link to Paper](https://arxiv.org/abs/1807.00499).<p></p>
-
-![Image](DIRsub.jpg)
-Example of a longitudinal registration and subtraction (C) of DIR images (A, B) over time. Code found at [DIRsub](https://github.com/CompImg/DIRsub).
-
-
-![Image](AnoVAEGAN.jpg)
-Unsupervised anomaly detection based on a coupled Auto-Encoder / Generative Adversarial Network, trained on MR scans from healthy probands. [Link to Paper](https://arxiv.org/abs/1804.04488).
+![Image](TGM.jpg)  |  ![Image](DIRsub.jpg) | ![Image](AnoVAEGAN.jpg)
+Patient-specific tumor growth modeling based on multi-modal imaging. [Link to Paper](https://arxiv.org/abs/1807.00499).  | Example of a longitudinal registration and subtraction (C) of DIR images (A, B) over time. Code found at [DIRsub](https://github.com/CompImg/DIRsub). | Unsupervised anomaly detection based on a coupled Auto-Encoder / Generative Adversarial Network, trained on MR scans from healthy probands. [Link to Paper](https://arxiv.org/abs/1804.04488).
 
 ## Selected Publications
 
