@@ -31,7 +31,7 @@ Medical Imaging generates a plethora of data, of which today only a fraction is 
 - Dr. Christian Wachinger (LMU Artificial Intelligence in Medical Imaging)
 - Prof. R. Wiest (Bern Neuroradiology)
 
-## Projects
+## Selected Projects
 
 ![Image](TGM.jpg)  |  ![Image](DIRsub.jpg) | ![Image](AnoVAEGAN.jpg)
 Patient-specific tumor growth modeling based on multi-modal imaging. [Link to Paper](https://arxiv.org/abs/1807.00499).  | Example of a longitudinal registration and subtraction (C) of DIR images (A, B) over time. Code found at [DIRsub](https://github.com/CompImg/DIRsub). | Unsupervised anomaly detection based on a coupled Auto-Encoder / Generative Adversarial Network, trained on MR scans from healthy probands. [Link to Paper](https://arxiv.org/abs/1804.04488).
