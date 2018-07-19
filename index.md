@@ -32,10 +32,18 @@ Medical Imaging generates a plethora of data, of which today only a fraction is 
 - Prof. R. Wiest (Bern Neuroradiology)
 
 ## Selected Projects
-[![alt text](AnoVAEGAN.jpg "Unsupervised Anomaly Detection")](https://arxiv.org/abs/1804.04488) | [![DIRsub](DIRsub.jpg)](https://github.com/CompImg/DIRsub)
-[![TGM](TGM.jpg)](https://arxiv.org/abs/1807.00499) | [![GUI](GUI_screenshot.jpg)](https://github.com/CompImg/gui_supervoxel_tumor_segmentation)
-
-[!["Test"](TGM.jpg)](https://arxiv.org/abs/1807.00499) | [!["Test2"](TGM.jpg)](https://arxiv.org/abs/1807.00499)
+<table>
+  <tbody>
+    <tr>
+      <td><a href="https://arxiv.org/abs/1804.04488"><img src="AnoVAEGAN.jpg" alt="alt text" title="Unsupervised Anomaly Detection" /></a></td>
+      <td><a href="https://github.com/CompImg/DIRsub"><img src="DIRsub.jpg" alt="alt text" title="Longitudinal DIR Subtraction" /></a></td>
+    </tr>
+   <tr>
+      <td><a href="https://arxiv.org/abs/1807.00499"><img src="TGM.jpg" alt="alt text" title="Tumor Growth Modeling" /></a></td>
+      <td><a href="https://github.com/CompImg/gui_supervoxel_tumor_segmentation"><img src="GUI_screenshot.jpg" alt="alt text" title="Interactive Segmention GUI" /></a></td>
+    </tr> 
+  </tbody>
+</table>
 
 ## Selected Publications
 
