@@ -35,6 +35,8 @@ Medical Imaging generates a plethora of data, of which today only a fraction is 
 [![AnoVAEGAN](AnoVAEGAN.jpg)](https://arxiv.org/abs/1804.04488) | [![DIRsub](DIRsub.jpg)](https://github.com/CompImg/DIRsub)
 [![TGM](TGM.jpg)](https://arxiv.org/abs/1807.00499) | [![GUI](GUI_screenshot.jpg)](https://github.com/CompImg/gui_supervoxel_tumor_segmentation)
 
+[![Test](TGM.jpg)](https://arxiv.org/abs/1807.00499) | [![Test2](TGM.jpg)](https://arxiv.org/abs/1807.00499)
+
 ## Selected Publications
 
 **Lipkova J**, Angelikopoulos P, Wu S, **Alberts E**, **Wiestler B**, Diehl C, Preibisch C, Pyka T, Combs S, Hadjidoukas P, Van Leemput K, Koumoutsakos P, Lowengrub JS, **Menze BH**. [Personalized Radiotherapy Planning for Glioma Using Multimodal Bayesian Model Calibration](https://arxiv.org/abs/1807.00499). arXiv:1807.00499, 2018
