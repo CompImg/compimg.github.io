@@ -32,11 +32,8 @@ Medical Imaging generates a plethora of data, of which today only a fraction is 
 - Prof. R. Wiest (Bern Neuroradiology)
 
 ## Selected Projects
-[![alt text](AnoVAEGAN.jpg "Unsupervised Anomaly Detection")](https://arxiv.org/abs/1804.04488) | [![alt text](DIRsub.jpg "Longitudinal DIR Subtraction")](https://github.com/CompImg/DIRsub)
-[![alt text](TGM.jpg "Tumor Growth Modeling")](https://arxiv.org/abs/1807.00499) | [![alt text](GUI_screenshot.jpg "Interactive Tumor Segmentation GUI")](https://github.com/CompImg/gui_supervoxel_tumor_segmentation)
-
-![AnoVAEGAN](AnoVAEGAN.jpg) | ![DIRsub](DIRsub.jpg)
-![TGM](TGM.jpg) | ![GUI](GUI_screenshot.jpg)
+[![AnoVAEGAN](AnoVAEGAN.jpg)](https://arxiv.org/abs/1804.04488) | [![DIRsub](DIRsub.jpg)](https://github.com/CompImg/DIRsub)
+[![TGM](TGM.jpg)](https://arxiv.org/abs/1807.00499) | [![GUI](GUI_screenshot.jpg)](https://github.com/CompImg/gui_supervoxel_tumor_segmentation)
 
 ## Selected Publications
 
