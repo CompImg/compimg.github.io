@@ -32,6 +32,12 @@ Medical Imaging generates a plethora of data, of which today only a fraction is 
 - Prof. R. Wiest (Bern Neuroradiology)
 
 ## Projects
+
+TGM             |  DIRSub
+:-------------------------:|:-------------------------:
+![Image](TGM.jpg)  |  ![Image](DIRsub.jpg)
+Patient-specific tumor growth modeling based on multi-modal imaging. [Link to Paper](https://arxiv.org/abs/1807.00499).  | Example of a longitudinal registration and subtraction (C) of DIR images (A, B) over time. Code found at [DIRsub](https://github.com/CompImg/DIRsub).
+
 ![Image](TGM.jpg)
 Patient-specific tumor growth modeling based on multi-modal imaging. [Link to Paper](https://arxiv.org/abs/1807.00499).<p></p>
 
