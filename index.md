@@ -65,4 +65,4 @@ Osswald M, Jung E, Sahm F, Solecki G, Venkataramani V, Blaes J, Weil S, Horstman
 
 ## Funding
 
-We are supported by the [SFB-824](http://www.sfb824.de/de/index.php) and [TUM-KKF](http://www.med.tum.de/de/fakult%C3%A4tsinterne-f%C3%B6rderung-kkf).
+We are supported by the [SFB-824](http://www.sfb824.de/de/index.php), [TUM-KKF](http://www.med.tum.de/de/fakult%C3%A4tsinterne-f%C3%B6rderung-kkf) and [ZD.B](https://zentrum-digitalisierung.bayern/).
