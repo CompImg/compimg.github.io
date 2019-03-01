@@ -47,9 +47,9 @@ Medical Imaging generates a plethora of data, of which today only a fraction is 
 
 ## Selected Publications
 
-**Zhang H**, **Alberts E**, Pongratz V, Mühlau M, Zimmer C, **Wiestler B**, **Eichinger P**. [Predicting conversion from clinically isolated syndrome to multiple sclerosis–An imaging-based machine learning approach](https://www.sciencedirect.com/science/article/pii/S2213158218303413). NeuroImage: Clinical, 2018
+**Lipkova J**, Angelikopoulos P, Wu S, **Alberts E**, **Wiestler B**, Diehl C, Preibisch C, Pyka T, Combs S, Hadjidoukas P, Van Leemput K, Koumoutsakos P, Lowengrub JS, **Menze BH**. [Personalized Radiotherapy Design for Glioblastoma: Integrating Mathematical Tumor Models, Multimodal Scans and Bayesian Inference](https://ieeexplore.ieee.org/document/8654016). IEEE TMI, 2019
 
-**Lipkova J**, Angelikopoulos P, Wu S, **Alberts E**, **Wiestler B**, Diehl C, Preibisch C, Pyka T, Combs S, Hadjidoukas P, Van Leemput K, Koumoutsakos P, Lowengrub JS, **Menze BH**. [Personalized Radiotherapy Planning for Glioma Using Multimodal Bayesian Model Calibration](https://arxiv.org/abs/1807.00499). arXiv:1807.00499, 2018
+**Zhang H**, **Alberts E**, Pongratz V, Mühlau M, Zimmer C, **Wiestler B**, **Eichinger P**. [Predicting conversion from clinically isolated syndrome to multiple sclerosis–An imaging-based machine learning approach](https://www.sciencedirect.com/science/article/pii/S2213158218303413). NeuroImage: Clinical, 2018
 
 Baur C, **Wiestler B**, Albarqouni S, Navab N. [Deep Autoencoding Models for Unsupervised Anomaly Segmentation in Brain MR Images](https://arxiv.org/abs/1804.04488). arXiv:1804.04488, 2018
 
