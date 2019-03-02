@@ -10,7 +10,6 @@ Medical Imaging generates a plethora of data, of which today only a fraction is 
 - Prof. Bjoern Menze (TUM IBBM)
 
 ### Scientists
-- PD Jan Kirschke (TUM Neuroradiology)
 - Dr. Paul Eichinger (TUM Neuroradiology)
 - Esther Alberts (PhD Student)
 - Christoph Baur (PhD Student)
@@ -24,9 +23,10 @@ Medical Imaging generates a plethora of data, of which today only a fraction is 
 - Dr. Shadi Albarqouni (TUM IBBM)
 - Prof. Stephanie Combs (TUM RadioOncology)
 - PD Jens Gempt (TUM Neurosurgery)
+- Prof. Jan Kirschke (TUM Neuroradiology)
 - Prof. Mark Mühlau (TUM Neurology)
 - Dr. Viola Pongratz (TUM Neurology)
-- PD Alexander Radbruch (Heidelberg / Essen Neuroradiology)
+- Prof. Alexander Radbruch (Heidelberg / Essen Neuroradiology)
 - Prof. Jürgen Schlegel (TUM Neuropathology)
 - Dr. Christian Wachinger (LMU Artificial Intelligence in Medical Imaging)
 - Prof. R. Wiest (Bern Neuroradiology)
@@ -39,7 +39,7 @@ Medical Imaging generates a plethora of data, of which today only a fraction is 
       <td><a href="https://github.com/CompImg/DIRsub"><img src="DIRsub.jpg" alt="alt text" title="Longitudinal DIR Subtraction" /></a></td>
     </tr>
    <tr>
-      <td><a href="https://arxiv.org/abs/1807.00499"><img src="TGM.jpg" alt="alt text" title="Tumor Growth Modeling" /></a></td>
+      <td><a href="https://ieeexplore.ieee.org/document/8654016"><img src="TGM.jpg" alt="alt text" title="Tumor Growth Modeling" /></a></td>
       <td><a href="https://github.com/CompImg/gui_supervoxel_tumor_segmentation"><img src="GUI_screenshot.jpg" alt="alt text" title="Interactive Segmention GUI" /></a></td>
     </tr> 
   </tbody>
