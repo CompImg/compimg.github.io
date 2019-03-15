@@ -46,6 +46,7 @@ Medical Imaging generates a plethora of data, of which today only a fraction is 
 </table>
 
 ## Selected Publications
+**Eichinger P**, Schön S, Pongratz V, Wiestler H, **Zhang H**, Bussas M, Hoshi MM, Kirschke JS, Berthele A, Zimmer C, Hemmer B, Mühlau M, **Wiestler B**.  Pongratz V, Mühlau M, Zimmer C, **Wiestler B**, **Eichinger P**. [Accuracy of Unenhanced MRI in the Detection of New Brain Lesions in Multiple Sclerosis](https://www.ncbi.nlm.nih.gov/pubmed/30860448). Radiology, 2019
 
 **Lipkova J**, Angelikopoulos P, Wu S, **Alberts E**, **Wiestler B**, Diehl C, Preibisch C, Pyka T, Combs S, Hadjidoukas P, Van Leemput K, Koumoutsakos P, Lowengrub JS, **Menze BH**. [Personalized Radiotherapy Design for Glioblastoma: Integrating Mathematical Tumor Models, Multimodal Scans and Bayesian Inference](https://ieeexplore.ieee.org/document/8654016). IEEE TMI, 2019
 
@@ -53,9 +54,9 @@ Medical Imaging generates a plethora of data, of which today only a fraction is 
 
 Baur C, **Wiestler B**, Albarqouni S, Navab N. [Deep Autoencoding Models for Unsupervised Anomaly Segmentation in Brain MR Images](https://arxiv.org/abs/1804.04488). arXiv:1804.04488, 2018
 
-**Eichinger P**, Wiestler H, **Zhang H**, Biberacher V, **Kirschke JS**, Zimmer C, Mühlau M, **Wiestler B**. [A novel imaging technique for better detecting new lesions in multiple sclerosis](https://www.ncbi.nlm.nih.gov/pubmed/28756606). J Neurol, 2017
+**Eichinger P**, Wiestler H, **Zhang H**, Biberacher V, Kirschke JS, Zimmer C, Mühlau M, **Wiestler B**. [A novel imaging technique for better detecting new lesions in multiple sclerosis](https://www.ncbi.nlm.nih.gov/pubmed/28756606). J Neurol, 2017
 
-**Eichinger P**, **Alberts E**, Delbridge C, Trebeschi S, Valentinitsch A, Bette S, Huber T, Gempt J, Meyer B, Schlegel J, Zimmer C, **Kirschke JS**, **Menze BH**, **Wiestler B**. [Diffusion tensor image features predict IDH genotype in newly diagnosed WHO grade II/III gliomas](https://www.nature.com/articles/s41598-017-13679-4). Scientific Reports, 2017
+**Eichinger P**, **Alberts E**, Delbridge C, Trebeschi S, Valentinitsch A, Bette S, Huber T, Gempt J, Meyer B, Schlegel J, Zimmer C, Kirschke JS, **Menze BH**, **Wiestler B**. [Diffusion tensor image features predict IDH genotype in newly diagnosed WHO grade II/III gliomas](https://www.nature.com/articles/s41598-017-13679-4). Scientific Reports, 2017
 
 **Alberts E**, Tetteh G, Trebeschi S, Bieth M, Valentinitsch A, **Wiestler B**, Zimmer C, **Menze BH**. [Multi-modal Image Classification Using Low-Dimensional Texture Features for Genomic Brain Tumor Recognition](https://link.springer.com/chapter/10.1007/978-3-319-67675-3_18). MICGen @ MICCAI 2017
 
