@@ -11,20 +11,21 @@ Medical Imaging generates a plethora of data, of which today only a fraction is 
 
 ### Scientists
 - Dr. Paul Eichinger (TUM Neuroradiology)
-- Esther Alberts (PhD Student)
 - Christoph Baur (PhD Student)
 - Florian Kofler (PhD Student)
+- Hongwei Li (PhD Student)
 - Jana Lipkova (PhD Student)
 - Marie Metz (MD Student)
-- Miguel Molina (PhD Student)
 - Haike Zhang (MD Student)
 
 ### Collaboration Partners
-- Dr. Shadi Albarqouni (TUM IBBM)
+- Dr. Shadi Albarqouni (TUM CAMP)
 - Prof. Stephanie Combs (TUM RadioOncology)
 - PD Jens Gempt (TUM Neurosurgery)
 - Prof. Jan Kirschke (TUM Neuroradiology)
 - Prof. Mark Mühlau (TUM Neurology)
+- Prof. Nassir Navab (TUM CAMP)
+- Dr. Franz Pfister (Digital Helix GmbH)
 - Dr. Viola Pongratz (TUM Neurology)
 - Prof. Alexander Radbruch (Heidelberg / Essen Neuroradiology)
 - Prof. Jürgen Schlegel (TUM Neuropathology)
@@ -46,6 +47,11 @@ Medical Imaging generates a plethora of data, of which today only a fraction is 
 </table>
 
 ## Selected Publications
+
+**Li H**, Paetzold J, Sekuboyina A, **Kofler F**, Zhang J, Kirschke JS, **Wiestler B**, **Menze BH**. [DiamondGAN: Unified Multi-Modal Generative Adversarial Networks for MRI Sequences Synthesis](https://arxiv.org/abs/1904.12894). MICCAI, 2019
+
+**Baur C**, **Wiestler B**, Shadi Albarqouni, Nassir Navab. [Fusing Unsupervised and Supervised Deep Learning for White Matter Lesion Segmentation](http://proceedings.mlr.press/v102/baur19a.html). MIDL, 2019
+
 **Eichinger P**, Schön S, Pongratz V, Wiestler H, **Zhang H**, Bussas M, Hoshi MM, Kirschke JS, Berthele A, Zimmer C, Hemmer B, Mühlau M, **Wiestler B**. [Accuracy of Unenhanced MRI in the Detection of New Brain Lesions in Multiple Sclerosis](https://www.ncbi.nlm.nih.gov/pubmed/30860448). Radiology, 2019
 
 **Lipkova J**, Angelikopoulos P, Wu S, **Alberts E**, **Wiestler B**, Diehl C, Preibisch C, Pyka T, Combs S, Hadjidoukas P, Van Leemput K, Koumoutsakos P, Lowengrub JS, **Menze BH**. [Personalized Radiotherapy Design for Glioblastoma: Integrating Mathematical Tumor Models, Multimodal Scans and Bayesian Inference](https://ieeexplore.ieee.org/document/8654016). IEEE TMI, 2019
