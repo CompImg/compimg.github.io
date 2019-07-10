@@ -42,7 +42,11 @@ Medical Imaging generates a plethora of data, of which today only a fraction is 
    <tr>
       <td><a href="https://ieeexplore.ieee.org/document/8654016"><img src="TGM.jpg" alt="alt text" title="Tumor Growth Modeling" /></a></td>
       <td><a href="https://github.com/CompImg/gui_supervoxel_tumor_segmentation"><img src="GUI_screenshot.jpg" alt="alt text" title="Interactive Segmention GUI" /></a></td>
-    </tr> 
+    </tr>
+   <tr>
+      <td><a href="https://link.springer.com/chapter/10.1007/978-3-030-00931-1_12"><img src="DTIfwe.jpg" alt="alt text" title="Free-water correction in DTI data" /></a></td>
+      <td><a href="https://arxiv.org/abs/1904.12894"><img src="synthDIR.jpg" alt="alt text" title="MR sequence synthesis" /></a></td>
+    </tr>
   </tbody>
 </table>
 
@@ -55,6 +59,8 @@ Medical Imaging generates a plethora of data, of which today only a fraction is 
 **Eichinger P**, Schön S, Pongratz V, Wiestler H, **Zhang H**, Bussas M, Hoshi MM, Kirschke JS, Berthele A, Zimmer C, Hemmer B, Mühlau M, **Wiestler B**. [Accuracy of Unenhanced MRI in the Detection of New Brain Lesions in Multiple Sclerosis](https://www.ncbi.nlm.nih.gov/pubmed/30860448). Radiology, 2019
 
 **Lipkova J**, Angelikopoulos P, Wu S, **Alberts E**, **Wiestler B**, Diehl C, Preibisch C, Pyka T, Combs S, Hadjidoukas P, Van Leemput K, Koumoutsakos P, Lowengrub JS, **Menze BH**. [Personalized Radiotherapy Design for Glioblastoma: Integrating Mathematical Tumor Models, Multimodal Scans and Bayesian Inference](https://ieeexplore.ieee.org/document/8654016). IEEE TMI, 2019
+
+**Molina-Romero M**, **Wiestler B**, Gómez PA, Menzel MI, **Menze BH**. [Deep Learning with Synthetic Diffusion MRI Data for Free-Water Elimination in Glioblastoma Cases](https://link.springer.com/chapter/10.1007/978-3-030-00931-1_12). MICCAI, 2018
 
 **Zhang H**, **Alberts E**, Pongratz V, Mühlau M, Zimmer C, **Wiestler B**, **Eichinger P**. [Predicting conversion from clinically isolated syndrome to multiple sclerosis–An imaging-based machine learning approach](https://www.sciencedirect.com/science/article/pii/S2213158218303413). NeuroImage: Clinical, 2018
 
