@@ -54,7 +54,7 @@ Medical Imaging generates a plethora of data, of which today only a fraction is 
 
 **Li H**, Paetzold J, Sekuboyina A, **Kofler F**, Zhang J, Kirschke JS, **Wiestler B**, **Menze BH**. [DiamondGAN: Unified Multi-Modal Generative Adversarial Networks for MRI Sequences Synthesis](https://arxiv.org/abs/1904.12894). MICCAI, 2019
 
-**Baur C**, **Wiestler B**, Shadi Albarqouni, Nassir Navab. [Fusing Unsupervised and Supervised Deep Learning for White Matter Lesion Segmentation](http://proceedings.mlr.press/v102/baur19a.html). MIDL, 2019
+**Baur C**, **Wiestler B**, Albarqouni S, Navab N. [Fusing Unsupervised and Supervised Deep Learning for White Matter Lesion Segmentation](http://proceedings.mlr.press/v102/baur19a.html). MIDL, 2019
 
 **Eichinger P**, Schön S, Pongratz V, Wiestler H, **Zhang H**, Bussas M, Hoshi MM, Kirschke JS, Berthele A, Zimmer C, Hemmer B, Mühlau M, **Wiestler B**. [Accuracy of Unenhanced MRI in the Detection of New Brain Lesions in Multiple Sclerosis](https://www.ncbi.nlm.nih.gov/pubmed/30860448). Radiology, 2019
 
