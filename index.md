@@ -17,6 +17,7 @@ Medical Imaging generates a plethora of data, of which today only a fraction is 
 
 ### Scientists
 - Dr. Paul Eichinger (TUM Neuroradiology)
+- Dr. Tom Finck (TUM Neuroradiology)
 - Dr. Nikhil Sasidharan (MD Student)
 - Christoph Baur (PhD Student)
 - Florian Kofler (PhD Student)
