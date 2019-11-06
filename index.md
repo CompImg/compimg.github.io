@@ -6,7 +6,7 @@ Medical Imaging generates a plethora of data, of which today only a fraction is 
 
 ## News
 - Tom Finck receives a TUM-KKF scholarship
-- Marie Metz wins an Trainee Research Award Neuroradiology @ RSNA 2019 for her abstract "Predicting Glioblastoma Recurrence from Preoperative MR Scans using Fractional Anisotropy Maps with Free Water Suppression"
+- Marie Metz wins a Trainee Research Award Neuroradiology @ RSNA 2019 for her work "Predicting Glioblastoma Recurrence from Preoperative MR Scans using Fractional Anisotropy Maps with Free Water Suppression"
 - Benedikt Wiestler is awarded the 2019 Kurt-Decker-Preis @ DGNR
 - Our proposal "Predicting individual disease activity in Multiple Sclerosis: Making the informative wealth of white matter lesion imaging clinically accessible" is selected to be funded in the DFG Priority Programme *Radiomics*
 
