@@ -22,11 +22,11 @@ Medical Imaging generates a plethora of data, of which today only a fraction is 
 - Christoph Baur (PhD Student)
 - Florian Kofler (PhD Student)
 - Hongwei Li (PhD Student)
-- Jana Lipkova (PhD Student)
+- Timo Loehr (PhD Student)
 - Marie Metz (MD Student)
 
 ### Collaboration Partners
-- Dr. Shadi Albarqouni (TUM CAMP)
+- Dr. Shadi Albarqouni (TUM CAMP / ETH Zurich)
 - Prof. Stephanie Combs (TUM RadioOncology)
 - PD Jens Gempt (TUM Neurosurgery)
 - Prof. Jan Kirschke (TUM Neuroradiology)
