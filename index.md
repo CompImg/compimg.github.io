@@ -13,7 +13,7 @@ Medical Imaging generates a plethora of data, of which today only a fraction is 
 ## People
 ### Group Leaders
 - Dr. Benedikt Wiestler (TUM Neuroradiology)
-- Prof. Bjoern Menze (TUM IBBM)
+- Prof. Bjoern Menze (TUM IBBM & UZH DQBM)
 
 ### Scientists
 - Dr. Paul Eichinger (TUM Neuroradiology)
@@ -58,6 +58,8 @@ Medical Imaging generates a plethora of data, of which today only a fraction is 
 </table>
 
 ## Selected Publications
+
+**Metz MC**, **Molina-Romero M**, **Lipkova J**, Gempt J, Liesche-Starnecker F, **Eichinger P**, Grundl L, **Menze B**, Combs SE, Zimmer C, **Wiestler B**. [Predicting Glioblastoma Recurrence from Preoperative MR Scans Using Fractional-Anisotropy Maps with Free-Water Suppression](https://pubmed.ncbi.nlm.nih.gov/32204544/). Cancers, 2020
 
 **Li H**, Paetzold J, Sekuboyina A, **Kofler F**, Zhang J, Kirschke JS, **Wiestler B**, **Menze BH**. [DiamondGAN: Unified Multi-Modal Generative Adversarial Networks for MRI Sequences Synthesis](https://arxiv.org/abs/1904.12894). MICCAI, 2019
 
