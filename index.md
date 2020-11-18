@@ -27,7 +27,7 @@ Medical Imaging generates a plethora of data, of which today only a fraction is 
 - Marie Metz (MD Student)
 
 ### Collaboration Partners
-- Dr. Shadi Albarqouni (TUM CAMP / ETH Zurich)
+- Dr. Shadi Albarqouni (Helmholtz Munich)
 - Prof. Stephanie Combs (TUM RadioOncology)
 - PD Jens Gempt (TUM Neurosurgery)
 - Prof. Jan Kirschke (TUM Neuroradiology)
@@ -35,7 +35,7 @@ Medical Imaging generates a plethora of data, of which today only a fraction is 
 - Prof. Nassir Navab (TUM CAMP)
 - Dr. Franz Pfister (Digital Helix GmbH)
 - Dr. Viola Pongratz (TUM Neurology)
-- Prof. Alexander Radbruch (Heidelberg / Essen Neuroradiology)
+- Prof. Alexander Radbruch (Bonn Neuroradiology)
 - Prof. Jürgen Schlegel (TUM Neuropathology)
 - Dr. Christian Wachinger (LMU Artificial Intelligence in Medical Imaging)
 - Prof. R. Wiest (Bern Neuroradiology)
