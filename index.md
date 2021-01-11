@@ -38,7 +38,7 @@ Medical Imaging generates a plethora of data, of which today only a fraction is 
 - Prof. Alexander Radbruch (Bonn Neuroradiology)
 - Prof. Jürgen Schlegel (TUM Neuropathology)
 - Dr. Christian Wachinger (LMU Artificial Intelligence in Medical Imaging)
-- Prof. R. Wiest (Bern Neuroradiology)
+- Prof. Roland Wiest (Bern Neuroradiology)
 
 ## Selected Projects
 <table>
