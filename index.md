@@ -5,6 +5,7 @@
 Medical Imaging generates a plethora of data, of which today only a fraction is used for clinical decision making. Within our Working Group, we aim to develop algorithms and strategies to make the wealth of information accessible to clinicians. To this end, we are developing tools for (un)supervised lesion detection / segmentation, classification and data integration. Together with our clinical partners @ TUM, our current focus is on two neurological model diseases: Multiple Sclerosis and Gliomas. To support dissemination and use of our results, we aim to make all tools developed by us available here. We are also actively contributing to important challenges ([BRATS](https://www.med.upenn.edu/sbia/brats2018.html)) and workshops ([BrainLes](http://www.brainlesion-workshop.org/)) in the field of medical image computing.
 
 ## News
+- Our joint project "DIVA" (with [TUM-CAMP](http://campar.in.tum.de/WebHome), [Smart Reporting]() and [ImFusion](https://www.imfusion.com/)), aiming to develop an explainable decision-support system for detecting and classifying vertebral fractures, is funded by the KMU-innovativ programme of the [BMBF](https://www.bmbf.de/bmbf/de/forschung/innovativer-mittelstand/kmu-innovativ/kmu-innovativ_node.html). 
 - Bjoern Menze is joining the [Department of Quantitative Biomedicine](https://www.dqbm.uzh.ch/en.html) of UZH to establish the new Chair of Biomedical Image Analysis and Machine Learning.
 - Tom Finck receives a TUM-KKF scholarship
 - Marie Metz wins a Trainee Research Award Neuroradiology @ RSNA 2019 for her work "Predicting Glioblastoma Recurrence from Preoperative MR Scans using Fractional Anisotropy Maps with Free Water Suppression"
@@ -90,4 +91,4 @@ Osswald M, Jung E, Sahm F, Solecki G, Venkataramani V, Blaes J, Weil S, Horstman
 
 ## Funding
 
-We are supported by the [SFB-824](http://www.sfb824.de/de/index.php), [Deutsche Krebshilfe](https://www.krebshilfe.de/), [TUM-KKF](http://www.med.tum.de/de/fakult%C3%A4tsinterne-f%C3%B6rderung-kkf), [ZD.B](https://zentrum-digitalisierung.bayern/) and [DFG](https://www.uniklinik-freiburg.de/radiomics.html).
+We are supported by the [SFB-824](http://www.sfb824.de/de/index.php), [Deutsche Krebshilfe](https://www.krebshilfe.de/), [TUM-KKF](http://www.med.tum.de/de/fakult%C3%A4tsinterne-f%C3%B6rderung-kkf), [ZD.B](https://zentrum-digitalisierung.bayern/), [BMBF](https://www.bmbf.de/bmbf/de/forschung/innovativer-mittelstand/kmu-innovativ/kmu-innovativ_node.html) and [DFG](https://www.uniklinik-freiburg.de/radiomics.html).
