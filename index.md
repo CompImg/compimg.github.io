@@ -5,12 +5,13 @@
 Medical Imaging generates a plethora of data, of which today only a fraction is used for clinical decision making. Within our Working Group, we aim to develop algorithms and strategies to make the wealth of information accessible to clinicians. To this end, we are developing tools for (un)supervised lesion detection / segmentation, classification and data integration. Together with our clinical partners @ TUM, our current focus is on two neurological model diseases: Multiple Sclerosis and Gliomas. To support dissemination and use of our results, we aim to make all tools developed by us available here. We are also actively contributing to important challenges ([BRATS](https://www.med.upenn.edu/sbia/brats2018.html)) and workshops ([BrainLes](http://www.brainlesion-workshop.org/)) in the field of medical image computing.
 
 ## News
+- Marie Metz receives a TUM-KKF scholarship to explore the clinical utility of tumor growth maps.
 - Our joint project "DIVA" (with [TUM-CAMP](http://campar.in.tum.de/WebHome), [Smart Reporting](https://www.smart-reporting.com/en/) and [ImFusion](https://www.imfusion.com/)), aiming to develop an explainable decision-support system for detecting and classifying vertebral fractures, is funded by the [KMU-innovativ](https://www.bmbf.de/bmbf/de/forschung/innovativer-mittelstand/kmu-innovativ/kmu-innovativ_node.html) programme of the BMBF. 
 - Bjoern Menze is joining the [Department of Quantitative Biomedicine](https://www.dqbm.uzh.ch/en.html) of UZH to establish the new Chair of Biomedical Image Analysis and Machine Learning.
-- Tom Finck receives a TUM-KKF scholarship
-- Marie Metz wins a Trainee Research Award Neuroradiology @ RSNA 2019 for her work "Predicting Glioblastoma Recurrence from Preoperative MR Scans using Fractional Anisotropy Maps with Free Water Suppression"
-- Benedikt Wiestler is awarded the 2019 Kurt-Decker-Preis @ DGNR
-- Our proposal "Predicting individual disease activity in Multiple Sclerosis: Making the informative wealth of white matter lesion imaging clinically accessible" is selected to be funded in the DFG Priority Programme *Radiomics*
+- Tom Finck receives a TUM-KKF scholarship.
+- Marie Metz wins a Trainee Research Award Neuroradiology @ RSNA 2019 for her work "Predicting Glioblastoma Recurrence from Preoperative MR Scans using Fractional Anisotropy Maps with Free Water Suppression".
+- Benedikt Wiestler is awarded the 2019 Kurt-Decker-Preis @ DGNR.
+- Our proposal "Predicting individual disease activity in Multiple Sclerosis: Making the informative wealth of white matter lesion imaging clinically accessible" is selected to be funded in the DFG Priority Programme *Radiomics*.
 
 ## People
 ### Group Leaders
@@ -20,25 +21,26 @@ Medical Imaging generates a plethora of data, of which today only a fraction is 
 ### Scientists
 - Dr. Paul Eichinger (TUM Neuroradiology)
 - Dr. Tom Finck (TUM Neuroradiology)
+- Marie Metz (TUM Neuroradiology)
 - Dr. Nikhil Sasidharan (MD Student)
-- Christoph Baur (PhD Student)
 - Florian Kofler (PhD Student)
 - Hongwei Li (PhD Student)
 - Timo Loehr (PhD Student)
-- Marie Metz (MD Student)
+- Marie Thomas (MD Student)
 
 ### Collaboration Partners
 - Dr. Shadi Albarqouni (Helmholtz Munich)
 - Prof. Stephanie Combs (TUM RadioOncology)
-- PD Jens Gempt (TUM Neurosurgery)
+- Prof. Jens Gempt (TUM Neurosurgery)
 - Prof. Jan Kirschke (TUM Neuroradiology)
 - Prof. Mark Mühlau (TUM Neurology)
 - Prof. Nassir Navab (TUM CAMP)
-- Dr. Franz Pfister (Digital Helix GmbH)
+- Dr. Franz Pfister (deepc GmbH)
 - Dr. Viola Pongratz (TUM Neurology)
 - Prof. Alexander Radbruch (Bonn Neuroradiology)
+- Prof. Daniel Rückert (TUM)
 - Prof. Jürgen Schlegel (TUM Neuropathology)
-- Dr. Christian Wachinger (LMU Artificial Intelligence in Medical Imaging)
+- Prof. Christian Wachinger (TUM Radiology)
 - Prof. Roland Wiest (Bern Neuroradiology)
 
 ## Selected Projects
@@ -60,6 +62,14 @@ Medical Imaging generates a plethora of data, of which today only a fraction is 
 </table>
 
 ## Selected Publications
+
+**Thomas MF**, **Kofler F**, Grundl L, **Finck T**, **Li H**, Zimmer C, **Menze BH**, **Wiestler B**. [Improving Automated Glioma Segmentation in Routine Clinical Use Through Artificial Intelligence-Based Replacement of Missing Sequences With Synthetic Magnetic Resonance Imaging Scans](https://pubmed.ncbi.nlm.nih.gov/34652289/). Investigative Radiology, 2021
+
+Paprottka KJ, Kleiner S, Preibisch C, **Kofler F**, Schmidt-Graf F, Delbridge C, Bernhardt D, Combs SE, Gempt J, Meyer B, Zimmer C, **Menze BH**, Yakushev I, Kirschke JS, **Wiestler B**. [Fully automated analysis combining 18F-FET-PET and multiparametric MRI including DSC perfusion and APTw imaging: a promising tool for objective evaluation of glioma progression](https://pubmed.ncbi.nlm.nih.gov/34173008/). EJNMMI, 2021
+
+**Finck T**, Schinz D, Grundl L, Eisawy R, Yigitsoy M, Moosbauer J, Pfister F, **Wiestler B**. [Automated Pathology Detection and Patient Triage in Routinely Acquired Head Computed Tomography Scans](https://pubmed.ncbi.nlm.nih.gov/33813571/). Investigative Radiology, 2021
+
+Baur C*, **Wiestler B***, Mühlau M, Zimmer C, Navab N, Albarqouni S. [Modeling Healthy Anatomy with Artificial Intelligence for Unsupervised Anomaly Detection in Brain MRI](https://pubmed.ncbi.nlm.nih.gov/34136814/). Radiology AI, 2021
 
 **Metz MC**, **Molina-Romero M**, **Lipkova J**, Gempt J, Liesche-Starnecker F, **Eichinger P**, Grundl L, **Menze B**, Combs SE, Zimmer C, **Wiestler B**. [Predicting Glioblastoma Recurrence from Preoperative MR Scans Using Fractional-Anisotropy Maps with Free-Water Suppression](https://pubmed.ncbi.nlm.nih.gov/32204544/). Cancers, 2020
 
