@@ -73,7 +73,7 @@ Paprottka KJ, Kleiner S, Preibisch C, **Kofler F**, Schmidt-Graf F, Delbridge C,
 
 **Finck T**, Schinz D, Grundl L, Eisawy R, Yigitsoy M, Moosbauer J, Pfister F, **Wiestler B**. [Automated Pathology Detection and Patient Triage in Routinely Acquired Head Computed Tomography Scans](https://pubmed.ncbi.nlm.nih.gov/33813571/). Investigative Radiology, 2021
 
-Baur C*, **Wiestler B***, Mühlau M, Zimmer C, Navab N, Albarqouni S. [Modeling Healthy Anatomy with Artificial Intelligence for Unsupervised Anomaly Detection in Brain MRI](https://pubmed.ncbi.nlm.nih.gov/34136814/). Radiology AI, 2021
+Baur C*, **Wiestler B**, Mühlau M, Zimmer C, Navab N, Albarqouni S. [Modeling Healthy Anatomy with Artificial Intelligence for Unsupervised Anomaly Detection in Brain MRI](https://pubmed.ncbi.nlm.nih.gov/34136814/). Radiology AI, 2021
 
 **Metz MC**, **Molina-Romero M**, **Lipkova J**, Gempt J, Liesche-Starnecker F, **Eichinger P**, Grundl L, **Menze B**, Combs SE, Zimmer C, **Wiestler B**. [Predicting Glioblastoma Recurrence from Preoperative MR Scans Using Fractional-Anisotropy Maps with Free-Water Suppression](https://pubmed.ncbi.nlm.nih.gov/32204544/). Cancers, 2020
 
