@@ -1,10 +1,11 @@
 ## Welcome
 
-**Computational Imaging** is an interdisciplinary working group between [TUM Neuroradiology](http://www.neurokopfzentrum.med.tum.de/neuroradiologie/) and [Image-Based Biomedical Modeling](http://ibbm.in.tum.de/WebHome), jointly headed by Dr. Benedikt Wiestler and Prof. Bjoern Menze.
+**Computational Imaging** is an interdisciplinary working group between [TUM Neuroradiology](https://www.neurokopfzentrum.med.tum.de/neuroradiologie/) and [UZH DQBM](https://www.dqbm.uzh.ch/en/research/menze.html), jointly headed by Dr. Benedikt Wiestler and Prof. Bjoern Menze.
 
 Medical Imaging generates a plethora of data, of which today only a fraction is used for clinical decision making. Within our Working Group, we aim to develop algorithms and strategies to make the wealth of information accessible to clinicians. To this end, we are developing tools for (un)supervised lesion detection / segmentation, classification and data integration. Together with our clinical partners @ TUM, our current focus is on two neurological model diseases: Multiple Sclerosis and Gliomas. To support dissemination and use of our results, we aim to make all tools developed by us available here. We are also actively contributing to important challenges ([BRATS](https://www.med.upenn.edu/sbia/brats2018.html)) and workshops ([BrainLes](http://www.brainlesion-workshop.org/)) in the field of medical image computing.
 
 ## News
+- Our joint project "Verbesserung der Risikobewertung und Therapieplanung für Patienten mit Hirnmetastasen: Entwicklung und Validierung von KI-Modellen in der AURORA Multicenter-Studie" (with [TUM-AIM](https://aim-lab.io/) and TUM Radiation Oncology) is funded by the DFG.
 - Florian Kofler wins the [Valdo Grand Challenge](https://valdo.grand-challenge.org/) @ MICCAI. [Congrats!](https://github.com/CompImg/compimg.github.io/blob/b22b66abdaaf628a16c59a427f04f90bd527a2c2/valdo.jpg)
 - Marie Metz receives a TUM-KKF scholarship to explore the clinical utility of tumor growth maps.
 - Our joint project "DIVA" (with [TUM-CAMP](http://campar.in.tum.de/WebHome), [Smart Reporting](https://www.smart-reporting.com/en/) and [ImFusion](https://www.imfusion.com/)), aiming to develop an explainable decision-support system for detecting and classifying vertebral fractures, is funded by the [KMU-innovativ](https://www.bmbf.de/bmbf/de/forschung/innovativer-mittelstand/kmu-innovativ/kmu-innovativ_node.html) programme of the BMBF. 
