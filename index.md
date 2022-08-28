@@ -21,17 +21,19 @@ Medical Imaging generates a plethora of data, of which today only a fraction is 
 - Prof. Bjoern Menze (TUM IBBM & UZH DQBM)
 
 ### Scientists
-- Dr. Paul Eichinger (TUM Neuroradiology)
+- PD Dr. Paul Eichinger (TUM Neuroradiology)
 - Dr. Tom Finck (TUM Neuroradiology)
-- Marie Metz (TUM Neuroradiology)
+- Dr. Marie Metz (TUM Neuroradiology)
 - Dr. Nikhil Sasidharan (MD Student)
+- Nader Ganaba (PhD Student)
+- Bailiang Jian (PhD Student)
 - Florian Kofler (PhD Student)
 - Hongwei Li (PhD Student)
 - Timo Loehr (PhD Student)
 - Marie Thomas (MD Student)
 
 ### Collaboration Partners
-- Dr. Shadi Albarqouni (Helmholtz Munich)
+- Dr. Shadi Albarqouni (Helmholtz Munich / Uni Bonn)
 - Prof. Stephanie Combs (TUM RadioOncology)
 - Prof. Jens Gempt (TUM Neurosurgery)
 - Prof. Jan Kirschke (TUM Neuroradiology)
