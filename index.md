@@ -1,4 +1,4 @@
-## Welcome
+## Computational Imaging @ TUM
 
 **Computational Imaging** is an interdisciplinary Working Group between [TUM Neuroradiology](https://www.neurokopfzentrum.med.tum.de/neuroradiologie/) and [UZH DQBM](https://www.dqbm.uzh.ch/en/research/menze.html), jointly headed by Dr. Benedikt Wiestler and Prof. Bjoern Menze.
 
