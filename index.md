@@ -65,8 +65,11 @@ Medical Imaging generates a plethora of data, of which today only a fraction is 
 
 ## Selected Publications
 
-**Ezhov I**, Mot T, Shit S, **Lipkova J**, Paetzold JC, **Kofler F**, Pellegrini C, Kollovieh M, Navarro F, **Li H**, **Metz M**, **Wiestler B**, **Menze BH**. [Geometry-aware neural solver for fast Bayesian calibration of brain tumor models](https://pubmed.ncbi.nlm.nih.gov/34928790/). IEEE TMI, 2021
+**Ezhov I**, Scibilia K, Franitza K, Steinbauer F, Shit S, Zimmer L, Lipkova J, **Kofler F**, Paetzold JC, Canalini L, Waldmannstetter D, Menten M, **Metz M**, **Wiestler B**\*, **Menze BH**\*. [Learn-Morph-Infer: A new way of solving the inverse problem for brain tumor modeling](https://pubmed.ncbi.nlm.nih.gov/36395623/). Medical Image Analysis, 2022
 
+Gempt J, **Withake F**, Aftahy AK, Meyer HS, Barz M, Delbridge C, Liesche-Starnecker F, Prokop G, Pfarr N, Schlegel J, Meyer B, Zimmer C, **Menze BH**\*, **Wiestler B**\*. [Methylation subgroup and molecular heterogeneity is a hallmark of glioblastoma: implications for biopsy targeting, classification and therapy](https://pubmed.ncbi.nlm.nih.gov/36055049/). ESMO Open, 2022
+
+**Ezhov I**, Mot T, Shit S, **Lipkova J**, Paetzold JC, **Kofler F**, Pellegrini C, Kollovieh M, Navarro F, **Li H**, **Metz M**, **Wiestler B**, **Menze BH**. [Geometry-aware neural solver for fast Bayesian calibration of brain tumor models](https://pubmed.ncbi.nlm.nih.gov/34928790/). IEEE TMI, 2021
 
 **Thomas MF**, **Kofler F**, Grundl L, **Finck T**, **Li H**, Zimmer C, **Menze BH**, **Wiestler B**. [Improving Automated Glioma Segmentation in Routine Clinical Use Through Artificial Intelligence-Based Replacement of Missing Sequences With Synthetic Magnetic Resonance Imaging Scans](https://pubmed.ncbi.nlm.nih.gov/34652289/). Investigative Radiology, 2021
 
