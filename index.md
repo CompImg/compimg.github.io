@@ -65,7 +65,7 @@ Medical Imaging generates a plethora of data, of which today only a fraction is 
 
 ## Selected Publications
 
-Prabhakar C, **Li H**, Yang J, Shit S, **Wiestler B**\*, **Menze BH**\*. [ViT-AE++: Improving Vision Transformer Autoencoder for Self-supervised Medical Image Representations]([https://arxiv.org/abs/2205.08209](https://openreview.net/forum?id=2Aoi0VKPOWT)). MIDL, 2023
+Prabhakar C, **Li H**, Yang J, Shit S, **Wiestler B**\*, **Menze BH**\*. [ViT-AE++: Improving Vision Transformer Autoencoder for Self-supervised Medical Image Representations](https://openreview.net/forum?id=2Aoi0VKPOWT). MIDL, 2023
 
 **Kofler F**, Shit S, **Ezhov I**, Fidon L, Horvath I, Al-Maskari R, **Li H**, Bhatia H, Loehr T, Piraud M, Ertuerk A, Kirschke J, Peeken J, Vercauteren T, Zimmer C, **Wiestler B**\*, **Menze BH**\*. [blob loss: instance imbalance aware loss functions for semantic segmentation](https://arxiv.org/abs/2205.08209). IPMI, 2023
 
