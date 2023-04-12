@@ -20,21 +20,20 @@ Medical Imaging generates a plethora of data, of which today only a fraction is 
 - Prof. Bjoern Menze (TUM IBBM & UZH DQBM)
 
 ### Scientists
-- PD Dr. Paul Eichinger (TUM Neuroradiology)
-- Dr. Tom Finck (TUM Neuroradiology)
+- PD Dr. Tom Finck (TUM Neuroradiology)
 - Dr. Marie Metz (TUM Neuroradiology)
-- Dr. Nikhil Sasidharan (MD Student)
-- Nader Ganaba (PhD Student)
-- Bailiang Jian (PhD Student)
+- Dr. Sarah Schlaeger (TUM Neuroradiology)
 - Florian Kofler (PhD Student)
 - Hongwei Li (PhD Student)
-- Timo Loehr (PhD Student)
+- Daniel Scholz (PhD Student)
+- Jonas Weidner (PhD Student)
 - Marie Thomas (MD Student)
 
 ### Collaboration Partners
 - Dr. Shadi Albarqouni (Helmholtz Munich / Uni Bonn)
+- Prof. Spyridon Bakas (UPenn)
 - Prof. Stephanie Combs (TUM RadioOncology)
-- Prof. Jens Gempt (TUM Neurosurgery)
+- Prof. Jens Gempt (TUM / Hamburg Neurosurgery)
 - Prof. Jan Kirschke (TUM Neuroradiology)
 - Prof. Mark Mühlau (TUM Neurology)
 - Prof. Nassir Navab (TUM CAMP)
@@ -66,7 +65,13 @@ Medical Imaging generates a plethora of data, of which today only a fraction is 
 
 ## Selected Publications
 
+Prabhakar C, **Li H**, Yang J, Shit S, **Wiestler B**\*, **Menze BH**\*. [ViT-AE++: Improving Vision Transformer Autoencoder for Self-supervised Medical Image Representations]([https://arxiv.org/abs/2205.08209](https://openreview.net/forum?id=2Aoi0VKPOWT)). MIDL, 2023
+
+**Kofler F**, Shit S, **Ezhov I**, Fidon L, Horvath I, Al-Maskari R, **Li H**, Bhatia H, Loehr T, Piraud M, Ertuerk A, Kirschke J, Peeken J, Vercauteren T, Zimmer C, **Wiestler B**\*, **Menze BH**\*. [blob loss: instance imbalance aware loss functions for semantic segmentation](https://arxiv.org/abs/2205.08209). IPMI, 2023
+
 **Ezhov I**, Scibilia K, Franitza K, Steinbauer F, Shit S, Zimmer L, Lipkova J, **Kofler F**, Paetzold JC, Canalini L, Waldmannstetter D, Menten M, **Metz M**, **Wiestler B**\*, **Menze BH**\*. [Learn-Morph-Infer: A new way of solving the inverse problem for brain tumor modeling](https://pubmed.ncbi.nlm.nih.gov/36395623/). Medical Image Analysis, 2022
+
+Bercea CI, **Wiestler B**, Rueckert D, Albarqouni S. [Federated disentangled representation learning for unsupervised brain anomaly detection](https://www.nature.com/articles/s42256-022-00515-2). Nature Machine Intelligence, 2022
 
 Gempt J, **Withake F**, Aftahy AK, Meyer HS, Barz M, Delbridge C, Liesche-Starnecker F, Prokop G, Pfarr N, Schlegel J, Meyer B, Zimmer C, **Menze BH**\*, **Wiestler B**\*. [Methylation subgroup and molecular heterogeneity is a hallmark of glioblastoma: implications for biopsy targeting, classification and therapy](https://pubmed.ncbi.nlm.nih.gov/36055049/). ESMO Open, 2022
 
