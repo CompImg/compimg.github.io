@@ -33,7 +33,7 @@ Medical Imaging generates a plethora of data, of which today only a fraction is 
 - Dr. Shadi Albarqouni (Helmholtz Munich / Uni Bonn)
 - Prof. Spyridon Bakas (UPenn)
 - Prof. Stephanie Combs (TUM Radiation Oncology)
-- Dr. Claire Delbrdige (TUM Neuropathology)
+- Dr. Claire Delbridge (TUM Neuropathology)
 - Prof. Jens Gempt (TUM / Hamburg Neurosurgery)
 - Prof. Jan Kirschke (TUM Neuroradiology)
 - Prof. Mark Mühlau (TUM Neurology)
@@ -42,7 +42,7 @@ Medical Imaging generates a plethora of data, of which today only a fraction is 
 - Dr. Viola Pongratz (TUM Neurology)
 - Prof. Alexander Radbruch (Bonn Neuroradiology)
 - Prof. Daniel Rückert (TUM AIM)
-- Prof. Peter Schueffler (TUM Computational Pathology)
+- Prof. Peter Schüffler (TUM Computational Pathology)
 - Prof. Christian Wachinger (TUM Radiology)
 - Prof. Roland Wiest (Bern Neuroradiology)
 
