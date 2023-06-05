@@ -23,9 +23,10 @@ Medical Imaging generates a plethora of data, of which today only a fraction is 
 - PD Dr. Tom Finck (TUM Neuroradiology)
 - Dr. Marie Metz (TUM Neuroradiology)
 - Dr. Sarah Schlaeger (TUM Neuroradiology)
-- Florian Kofler (PhD Student)
+- Bailiang Jian (PhD Student)
 - Hongwei Li (PhD Student)
 - Daniel Scholz (PhD Student)
+- Aswathi Varma (PhD Student)
 - Jonas Weidner (PhD Student)
 - Marie Thomas (MD Student)
 
@@ -43,6 +44,7 @@ Medical Imaging generates a plethora of data, of which today only a fraction is 
 - Prof. Alexander Radbruch (Bonn Neuroradiology)
 - Prof. Daniel Rückert (TUM AIM)
 - Prof. Peter Schüffler (TUM Computational Pathology)
+- Prof. Philipp Vollmuth (Heidelberg Neuroradiology)
 - Prof. Christian Wachinger (TUM Radiology)
 - Prof. Roland Wiest (Bern Neuroradiology)
 
@@ -116,4 +118,4 @@ Osswald M, Jung E, Sahm F, Solecki G, Venkataramani V, Blaes J, Weil S, Horstman
 
 ## Funding
 
-We are supported by the [SFB-824](http://www.sfb824.de/de/index.php), [Deutsche Krebshilfe](https://www.krebshilfe.de/), [TUM-KKF](http://www.med.tum.de/de/fakult%C3%A4tsinterne-f%C3%B6rderung-kkf), [ZD.B](https://zentrum-digitalisierung.bayern/), [BMBF](https://www.bmbf.de/bmbf/de/forschung/innovativer-mittelstand/kmu-innovativ/kmu-innovativ_node.html) and [DFG](https://www.uniklinik-freiburg.de/radiomics.html).
+We are supported by the [SFB-824](http://www.sfb824.de/de/index.php), [Deutsche Krebshilfe](https://www.krebshilfe.de/), [TUM-KKF](http://www.med.tum.de/de/fakult%C3%A4tsinterne-f%C3%B6rderung-kkf), [ZD.B](https://zentrum-digitalisierung.bayern/), [BMBF](https://www.bmbf.de/bmbf/de/forschung/innovativer-mittelstand/kmu-innovativ/kmu-innovativ_node.html), [DFG](https://www.uniklinik-freiburg.de/radiomics.html) and [NIH](https://grants.nih.gov/).
