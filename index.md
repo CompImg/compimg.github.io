@@ -69,7 +69,7 @@ Medical Imaging generates a plethora of data, of which today only a fraction is 
 
 ## Selected Publications
 
-McGinnis J, Shit S, **Li H**, Sideri-Lampretsa V, Graf R, Dannecker M, Pan J, Stolt-Ansó N, Mühlau M, Kirschke J, Rueckert D, **Wiestler B**. [Multi-contrast MRI Super-resolution via Implicit Neural Representations](https://link.springer.com/chapter/10.1007/978-3-031-43993-3_17). MICCAI 2023
+McGinnis J, Shit S, **Li H**, Sideri-Lampretsa V, Graf R, Dannecker M, Pan J, Stolt-Ansó N, Mühlau M, Kirschke J, Rueckert D, **Wiestler B**. [Single-subject Multi-contrast MRI Super-resolution via Implicit Neural Representations](https://link.springer.com/chapter/10.1007/978-3-031-43993-3_17). MICCAI 2023
 
 Prabhakar C, **Li H**, Paetzold J, **Loehr T**, Niu C, Mühlau M, Rueckert D, **Wiestler B**\*, **Menze BH**\*. [Self-pruning Graph Neural Network for Predicting Inflammatory Disease Activity in Multiple Sclerosis from Brain MR Images](https://link.springer.com/chapter/10.1007/978-3-031-43993-3_22). MICCAI 2023
 
